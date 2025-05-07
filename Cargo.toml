@@ -1,8 +1,8 @@
 [package]
-
 name = "halo2-keccak-256"
 version = "0.1.0"
 edition = "2021"
+
 
 [[bin]]
 name = "gen-keys"
